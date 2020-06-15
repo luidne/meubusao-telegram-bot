@@ -1,0 +1,15 @@
+{
+  "name": "ChatBotTeste",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "@luidne",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "global": "^4.4.0",
+    "telegraf": "^3.38.0"
+  }
+}
