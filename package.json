@@ -8,7 +8,7 @@
     "start": "node src/index.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.24.0",
     "global": "^4.4.0",
     "telegraf": "^4.4.2",
     "telegraf-session-local": "^2.1.0"
