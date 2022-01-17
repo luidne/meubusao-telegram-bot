@@ -10,7 +10,7 @@
   "dependencies": {
     "axios": "^0.19.2",
     "global": "^4.4.0",
-    "telegraf": "^4.4.2",
+    "telegraf": "^4.6.0",
     "telegraf-session-local": "^2.1.0"
   }
 }
